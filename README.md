@@ -4,7 +4,10 @@
 소스 파일은 허락 받지 않고 가져가셔도 상관없으니 가져가셔도 됩니다 :)<br>
 <br>
 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!<br>
-*저는
+* 저는
+* 이야기
+* 안영
+
 <!--
 **wndudwkd003/wndudwkd003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
