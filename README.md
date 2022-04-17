@@ -1,24 +1,19 @@
-# 𝑯𝒆𝒍𝒍𝒐 𝑮𝒊𝒕𝑯𝒖𝒃! 😆🤞
-<br>
-이곳은 제가 학교에서 공부했던 코드나 개인적으로 공부한 코드를 올리는 공간입니다<br>
-소스 파일은 허락 받지 않고 가져가셔도 상관없으니 가져가셔도 됩니다 :)<br>
-<br>
-𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!<br>
-* 저는
-* 이야기
-* 안영
-
-<!--
-**wndudwkd003/wndudwkd003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 𝑯𝒆𝒍𝒍𝒐 𝑮𝒊𝒕𝑯𝒖𝒃! 😆🤞   
+   
+> 저는 컴퓨터공학부 컴퓨터소프트웨어전공 2학년 학생입니다   
+> C와 C++을 배우고 있으며 게임, 앱제작과 보안에 관심있습니다!
+>    
+> 이곳은 제가 학교에서 공부했던 코드나 개인적으로 공부한 코드를 올리는 공간입니다   
+> 소스 파일은 허락 받지 않고 가져가셔도 상관없으니 가져가셔도 됩니다 :)   
+   
+𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!   
+* 🏫 경상국립대학교 컴퓨터공학부 컴퓨터소프트웨어전공
+* 🌱 C, C++, JSP
+* ❤️ C++</li>
+* 📫 ymail3@naver.com
+* 💬 Discord: 김주영#0514
+* ❤️🎧 ZUTOMAYO   
+   
+<img src="https://github.com/wndudwkd003/wndudwkd003/blob/6b7d8d2fd73b27a86fc089be1d03374306eecbf7/main.png" height="300px"></img>   
+> 🔗 https://blog.naver.com/ymail3   
+> 🔗 https://zynar.tistory.com   
