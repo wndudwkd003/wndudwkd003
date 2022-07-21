@@ -8,11 +8,10 @@
    
 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!   
 * 🏫 경상국립대학교 컴퓨터공학부 컴퓨터소프트웨어전공
-* 🌱 C, C++, JSP
+* 🌱 C, C++, Java
 * ❤️ C++</li>
 * 📫 ymail3@naver.com
 * 💬 Discord: 김주영#0514
-* ❤️🎧 ZUTOMAYO   
    
 <img src="https://github.com/wndudwkd003/wndudwkd003/blob/main/main.png" height="300px"></img>   
 > 🔗 https://blog.naver.com/ymail3   
