@@ -14,6 +14,6 @@
 * 💬 Discord: 김주영#0514
 * ❤️🎧 ZUTOMAYO   
    
-<img src="https://github.com/wndudwkd003/wndudwkd003/blob/6b7d8d2fd73b27a86fc089be1d03374306eecbf7/main.png" height="300px"></img>   
+<img src="https://github.com/wndudwkd003/wndudwkd003/blob/main/main.png" height="300px"></img>   
 > 🔗 https://blog.naver.com/ymail3   
 > 🔗 https://zynar.tistory.com   
