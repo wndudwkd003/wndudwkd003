@@ -13,6 +13,5 @@
 * 📫 ymail3@naver.com
 * 💬 Discord: 김주영#0514
    
-<img src="https://github.com/wndudwkd003/wndudwkd003/blob/main/main.png" height="300px"></img>   
 > 🔗 https://blog.naver.com/ymail3   
 > 🔗 https://zynar.tistory.com   
