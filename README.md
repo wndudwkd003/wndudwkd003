@@ -7,7 +7,8 @@
 * ❤️ Java, Kotlin, Python3</li>
 * 📫 ymail3@naver.com
 * 💬 Discord: 김주영#0514
-   
+
+> 🔗 https://velog.io/@wndudwkd003
 > 🔗 https://blog.naver.com/ymail3   
 > 🔗 https://zynar.tistory.com   
 
