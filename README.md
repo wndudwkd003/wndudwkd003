@@ -1,6 +1,9 @@
-# 𝑯𝒆𝒍𝒍𝒐 𝑮𝒊𝒕𝑯𝒖𝒃! 😆🤞   
-   
-  
-𝗔𝗯𝗼𝘂𝘁 𝗺𝗲!   
-* 🏫 경상국립대학교 컴퓨터공학과 석사과정
+# 𝑯𝒆𝒍𝒍𝒐 𝑮𝒊𝒕𝑯𝒖𝒃! 😆🤞 
 
+Juyoung Kim  
+M.S. Student, Department of Computer Science & Engineering  
+Gyeongsang National University
+
+Interested in robotics, sensor fusion, multi-agent systems, LLMs, synthetic data generation, and missing data.
+
+[Portfolio](https://wndudwkd003.github.io) · [Academic Email](mailto:wndudwkd003@gnu.ac.kr)
