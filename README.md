@@ -6,4 +6,4 @@ Gyeongsang National University
 
 Interested in robotics, sensor fusion, multi-agent systems, LLMs, synthetic data generation, and missing data.
 
-[Portfolio](https://wndudwkd003.github.io) · [Academic Email](mailto:wndudwkd003@gnu.ac.kr)
+[Portfolio](https://wndudwkd003.github.io) 
